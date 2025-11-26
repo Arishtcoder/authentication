@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "email": "john@example.com",
+      "username": "john123",
+      "password": "john@789"
+    },
+    {
+      "email": "arshu@example.com",
+      "username": "Arshu",
+      "password": "arshu@123"
+    },
+    {
+      "username": "Patanjali",
+      "email": "bill.gates@gatesfoundation.org",
+      "password": "1234"
+    },
+    {
+      "username": "Monia",
+      "email": "monika@example.com",
+      "password": "monika@123"
+    },
+    {
+      "username": "Patanjli",
+      "email": "ram@gmail.com",
+      "password": "ram"
+    },
+    {
+      "username": "arshu",
+      "email": "arishtjain0411@gmail.com",
+      "password": "1234"
+    },
+    {
+      "username": "arshu",
+      "email": "devikasex@example.com",
+      "password": "sex"
+    },
+    {
+      "username": "Bill gates",
+      "email": "bill.gates@gatesfoundation.net",
+      "password": "net"
+    },
+    {
+      "username": "arshu",
+      "email": "xyz@example.com",
+      "password": "fuck"
+    }
+  ]
+}
